@@ -24,8 +24,8 @@ Indie developer passionate about building AI-powered tools that solve real probl
 
 | # | Project | Description | Links |
 |---|---------|-------------|-------|
-| 1 | **SRI Calculator** | Sexual Repression Index Calculator — a professional mental health assessment tool | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fsexual.caterpi11ar.com&label=sexual.caterpi11ar.com)](https://sexual.caterpi11ar.com/) |
-| 2 | **WeChat Chat Generator** | Online WeChat chat screenshot generator | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwechat.caterpi11ar.com&label=wechat.caterpi11ar.com)](https://wechat.caterpi11ar.com/) |
-| 3 | **Locusify** | Smart travel tool — upload photos to auto-generate visual route maps and smooth highlight vlogs | [![Website](https://img.shields.io/website?url=https%3A%2F%2Flocusify.caterpi11ar.com&label=locusify.caterpi11ar.com)](https://locusify.caterpi11ar.com/) |
+| 1 | **Locusify** | Smart travel tool — upload photos to auto-generate visual route maps and smooth highlight vlogs | [![Website](https://img.shields.io/website?url=https%3A%2F%2Flocusify.caterpi11ar.com&label=locusify.caterpi11ar.com)](https://locusify.caterpi11ar.com/) |
+| 2 | **Viper** | Minimal Viper-inspired configuration library for TypeScript, built with Zod and JSON5 | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fviper.caterpi11ar.com&label=docs)](https://viper.caterpi11ar.com/) |
+| 3 | **WeChat Chat Generator** | Online WeChat chat screenshot generator | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwechat.caterpi11ar.com&label=wechat.caterpi11ar.com)](https://wechat.caterpi11ar.com/) |
 | 4 | **Lark Imagine Robot** | Lark/Feishu bot for AI-powered image generation and artistic creation | [![GitHub](https://img.shields.io/github/stars/caterpi11ar/lark-imagine-robot?style=social)](https://github.com/caterpi11ar/lark-imagine-robot) |
-| 5 | **Viper** | Minimal Viper-inspired configuration library for TypeScript, built with Zod and JSON5 | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fviper.caterpi11ar.com&label=docs)](https://viper.caterpi11ar.com/) |
+| 5 | **SRI Calculator** | Sexual Repression Index Calculator — a professional mental health assessment tool | [![Website](https://img.shields.io/website?url=https%3A%2F%2Fsexual.caterpi11ar.com&label=sexual.caterpi11ar.com)](https://sexual.caterpi11ar.com/) |
