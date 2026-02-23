@@ -27,6 +27,6 @@ Indie developer passionate about building AI-powered tools that solve real probl
 | <img src="https://raw.githubusercontent.com/caterpi11ar/assets/main/logo/locusify.png" width="32" height="32"> | **[Locusify](https://locusify.caterpi11ar.com/)** | Smart travel tool — upload photos to auto-generate visual route maps and smooth highlight vlogs |
 | 🦷 | **[Dentic](https://dentic.caterpi11ar.com/)** | Build a lifelong brushing habit the scientific way |
 | 🐍 | **[Viper](https://viper.caterpi11ar.com/)** | Minimal Viper-inspired configuration library for TypeScript, built with Zod and JSON5 |
-| 💬 | **[WeChat Generator](https://wechat.caterpi11ar.com/)** | Online WeChat chat screenshot generator |
+| 💬 | **[WeChat Generator](https://wechat.caterpi11ar.com/)** | Online WeChat screenshot generator |
 | 🎨 | **[Lark Imagine Robot](https://github.com/caterpi11ar/lark-imagine-robot)** | Lark/Feishu bot for AI-powered image generation and artistic creation |
 | 📊 | **[SRI Calculator](https://sexual.caterpi11ar.com/)** | Sexual Repression Index Calculator — a professional mental health assessment tool |
