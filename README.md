@@ -15,16 +15,16 @@ Indie developer passionate about building AI-powered tools that solve real probl
 
 <!-- AI 应用合集 -->
 
-## 🤖 AI Projects
+## 🤖 Projects
 
 <p>
   <em>Turning ideas into AI-powered products, one deploy at a time.</em><br>
   <em>Every tool here is built with AI, for real-world use.</em>
 </p>
 
-| | Project | Description |
+| | Name | Description |
 |---|---------|-------------|
-| <img src="https://raw.githubusercontent.com/caterpi11ar/assets/main/logo/locusify.png" width="32" height="32"> | **[Locusify](https://locusify.caterpi11ar.com/)** | Smart travel tool — upload photos to auto-generate visual route maps and smooth highlight vlogs |
+| <img src="https://raw.githubusercontent.com/caterpi11ar/assets/main/logo/locusify.png" width="32" height="32"> | **[Locusify](https://locusify.caterpi11ar.com/)** | upload photos to auto-generate visual route maps and smooth highlight vlogs |
 | 🦷 | **[Dentic](https://dentic.caterpi11ar.com/)** | Build a lifelong brushing habit the scientific way |
 | 🐍 | **[Viper](https://viper.caterpi11ar.com/)** | Minimal Viper-inspired configuration library for TypeScript, built with Zod and JSON5 |
 | 💬 | **[WeChat Generator](https://wechat.caterpi11ar.com/)** | Online WeChat screenshot generator |
