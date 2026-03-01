@@ -31,3 +31,4 @@ Indie developer passionate about building AI-powered tools that solve real probl
 | 🎨 | **[Lark Imagine Robot](https://github.com/caterpi11ar/lark-imagine-robot)** | Lark/Feishu bot for AI-powered image generation and artistic creation |
 | 📊 | **[SRI Calculator](https://sexual.caterpi11ar.com/)** | Sexual Repression Index Calculator — a professional mental health assessment tool |
 | 🤖 | **[AI System Prompts](https://ai.caterpi11ar.com/)** | Full system prompts from 30+ AI coding tools — Claude Code, Cursor, Devin, Windsurf, v0 & more |
+| 📰 | **[Tech Pulse](https://github.com/caterpi11ar/tech-pulse)** | AI · Tech — 每日科技资讯 \| Daily AI & Tech news digest in Chinese |
