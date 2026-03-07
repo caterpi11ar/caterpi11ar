@@ -25,13 +25,13 @@ Indie developer passionate about building AI-powered tools that solve real probl
 | | Name | Description |
 |---|---------|-------------|
 | <img src="https://raw.githubusercontent.com/caterpi11ar/assets/main/logo/locusify.png" width="32" height="32"> | **[Locusify](https://locusify.caterpi11ar.com/)** | upload photos to auto-generate visual route maps and smooth highlight vlogs |
+| 🎮 | **[GIClaw](https://giclaw.cn)** | LLM-driven Genshin Impact agent — inspired by OpenClaw |
 | 🦷 | **[Dentic](https://dentic.caterpi11ar.com/)** | Build a lifelong brushing habit the scientific way |
 | 🐍 | **[Viper](https://viper.caterpi11ar.com/)** | Minimal Viper-inspired configuration library for TypeScript, built with Zod and JSON5 |
 | 💬 | **[WeChat Generator](https://wechat.caterpi11ar.com/)** | Online WeChat screenshot generator |
 | 🎨 | **[Lark Imagine Robot](https://github.com/caterpi11ar/lark-imagine-robot)** | Lark/Feishu bot for AI-powered image generation and artistic creation |
 | 📊 | **[SRI Calculator](https://sexual.caterpi11ar.com/)** | Sexual Repression Index Calculator — a professional mental health assessment tool |
 | 🤖 | **[AI System Prompts](https://ai.caterpi11ar.com/)** | Full system prompts from 30+ AI coding tools — Claude Code, Cursor, Devin, Windsurf, v0 & more |
-| 🎮 | **[Genshin Claw](https://github.com/caterpi11ar/genshin-claw)** | LLM-driven Genshin Impact agent — inspired by OpenClaw |
 | 💰 | **[LLMerca](https://llmerca.com/)** | LLM cost optimization platform — classify intent & difficulty, route to the optimal model |
 
 > **2026 Goal:** Build 20 AI-powered apps this year — `8 / 20` completed
