@@ -19,7 +19,7 @@ This is a GitHub profile README repository (`caterpi11ar/caterpi11ar`). The sole
 ## Project List (current order)
 
 1. **Locusify** — `locusify.caterpi11ar.com`
-2. **Viper** — `viper.caterpi11ar.com`
-3. **WeChat Chat Generator** — `wechat.caterpi11ar.com`
-4. **Lark Imagine Robot** — GitHub: `caterpi11ar/lark-imagine-robot`
-5. **SRI Calculator** — `sexual.caterpi11ar.com`
+2. **Dentic** — `dentic.caterpi11ar.com`
+3. **CC Notify** — GitHub: `caterpi11ar/cc-notify`
+4. **Lingobar** — GitHub: `caterpi11ar/lingobar`
+5. **WeChat Generator** — `wechat.caterpi11ar.com`
