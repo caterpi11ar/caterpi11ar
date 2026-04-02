@@ -24,11 +24,11 @@ Indie developer passionate about building AI-powered tools that solve real probl
 
 | | Name | Description |
 |---|---------|-------------|
-| <img src="https://raw.githubusercontent.com/caterpi11ar/assets/main/logo/locusify.png" width="32" height="32"> | **[Locusify](https://locusify.cn/)** | upload photos to auto-generate visual route maps and smooth highlight vlogs |
+| <img src="https://raw.githubusercontent.com/caterpi11ar/assets/main/logo/locusify.png" width="32" height="32"> | **[Locusify](https://locusify.cn/)** [![GitHub stars](https://img.shields.io/github/stars/caterpi11ar/locusify?style=social)](https://github.com/caterpi11ar/locusify) | upload photos to auto-generate visual route maps and smooth highlight vlogs |
 | 🦷 | **[Dentic](https://dentic.caterpi11ar.com/)** | Build a lifelong brushing habit the scientific way |
 | 🔔 | **[CC Notify](https://github.com/caterpi11ar/cc-notify)** [![GitHub stars](https://img.shields.io/github/stars/caterpi11ar/cc-notify?style=social)](https://github.com/caterpi11ar/cc-notify) | Notification manager for AI CLI tools — built with Tauri, React & Rust |
 | 📋 | **[Lingobar](https://github.com/caterpi11ar/lingobar)** [![GitHub stars](https://img.shields.io/github/stars/caterpi11ar/lingobar?style=social)](https://github.com/caterpi11ar/lingobar) | A macOS menu bar clipboard translator built with SwiftUI and AppKit |
-| 💬 | **[WeChat Generator](https://wechat.caterpi11ar.com/)** | Online WeChat screenshot generator |
+| 💬 | **[WeChat Generator](https://wechat.caterpi11ar.com/)** [![GitHub stars](https://img.shields.io/github/stars/caterpi11ar/wechat-online?style=social)](https://github.com/caterpi11ar/wechat-online) | Online WeChat screenshot generator |
 | 🎮 | **[GIClaw](https://giclaw.cn)** | LLM-driven Genshin Impact agent — inspired by OpenClaw |
 | 🐍 | **[Viper](https://viper.caterpi11ar.com/)** | Minimal Viper-inspired configuration library for TypeScript, built with Zod and JSON5 |
 | 🎨 | **[Lark Imagine Robot](https://github.com/caterpi11ar/lark-imagine-robot)** [![GitHub stars](https://img.shields.io/github/stars/caterpi11ar/lark-imagine-robot?style=social)](https://github.com/caterpi11ar/lark-imagine-robot) | Lark/Feishu bot for AI-powered image generation and artistic creation |
