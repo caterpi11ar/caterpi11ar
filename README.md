@@ -25,7 +25,7 @@ Indie developer passionate about building AI-powered tools that solve real probl
 | | Name | Description | Stars |
 |---|---------|-------------|-------|
 | <img src="https://raw.githubusercontent.com/caterpi11ar/assets/main/logo/locusify.png" width="32" height="32"> | **[Locusify](https://locusify.cn/)** | upload photos to auto-generate visual route maps and smooth highlight vlogs | [![GitHub stars](https://img.shields.io/github/stars/caterpi11ar/locusify?style=social)](https://github.com/caterpi11ar/locusify) |
-| 🦷 | **[Dentic](https://dentic.caterpi11ar.com/)** | Build a lifelong brushing habit the scientific way | |
+| 🦷 | **[Dentic](https://github.com/caterpi11ar/dentic)** | Build a lifelong brushing habit the scientific way | |
 | 🔔 | **[CC Notify](https://github.com/caterpi11ar/cc-notify)** | Notification manager for AI CLI tools — built with Tauri, React & Rust | [![GitHub stars](https://img.shields.io/github/stars/caterpi11ar/cc-notify?style=social)](https://github.com/caterpi11ar/cc-notify) |
 | 📋 | **[Lingobar](https://github.com/caterpi11ar/lingobar)** | A macOS menu bar clipboard translator built with SwiftUI and AppKit | [![GitHub stars](https://img.shields.io/github/stars/caterpi11ar/lingobar?style=social)](https://github.com/caterpi11ar/lingobar) |
 | 💬 | **[WeChat Generator](https://wechat.caterpi11ar.com/)** | Online WeChat screenshot generator | [![GitHub stars](https://img.shields.io/github/stars/caterpi11ar/wechat-online?style=social)](https://github.com/caterpi11ar/wechat-online) |
